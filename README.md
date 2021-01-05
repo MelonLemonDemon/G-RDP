@@ -10,6 +10,6 @@ Open the script in Colab and follow the instructions.
 
 Run the script
 
-![Something](Google.com)
+![Step 1](Step 1.png)
 
 Click on the link
